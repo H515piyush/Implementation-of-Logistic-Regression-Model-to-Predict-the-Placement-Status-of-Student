@@ -16,7 +16,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 3.Find the null and duplicate values.
 
 4.Using logistic regression find the predicted values of accuracy , confusion matrices.
-Display the results.  
+Display the results.
+
 ## Program:
 ```
 /*
